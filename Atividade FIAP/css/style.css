@@ -1,0 +1,39 @@
+header {
+    text-align: center;
+    font-weight: bold !important;
+  padding-top: 20px;
+  font-size: 50px !important;
+  color: #ffffff !important;
+  background-color: #4eb3e9;
+}
+.back {
+    background-color: #4eb3e9;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 86vh;
+    max-width: 3000px;
+    background-size: contain;
+  }
+  .formulario{
+    margin-top:70px !important;
+  }
+.entre{
+    text-align: center;
+    margin-top: 20px;
+}
+.img{
+    padding: 5px;
+    text-align: center;
+    align-items: center;
+}
+
+usuario {
+    background: #E4AFFF;
+    border-radius: 9px;
+    padding: 17px;
+    margin: 7px;
+    box-shadow: 0 4px 5px #E4AFFF;
+    backdrop-filter: blur(11.8px);
+    -webkit-backdrop-filter: blur(11.8px);
+    border: 1px solid rgba(255, 255, 255, 0.51);
+  }
